@@ -14,3 +14,4 @@ conf/application.conf
 test-result/
 .classpath
 .settings/org.eclipse.core.resources.prefs
+/target/
